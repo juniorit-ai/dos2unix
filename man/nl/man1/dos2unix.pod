@@ -44,6 +44,8 @@
 #
 #           pod2man PAGE.N.pod > PAGE.N
 */
+=encoding utf8
+
 =pod
 
 =head1 NAAM
@@ -459,7 +461,7 @@ voor een POSIX staandaard shell:
 
     export LANG=nl               Nederlands
     export LANG=nl_NL            Nederlands, Nederland
-    export LANG=nl_BE            Nederlands, België
+    export LANG=nl_BE            Nederlands, BelgiÃ«
     export LANG=es_ES            Spaans, Spanje
     export LANG=es_MX            Spaans, Mexico
     export LANG=en_US.iso88591   Engels, VS, Latin-1 codering
